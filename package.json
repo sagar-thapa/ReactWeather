@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Andrew Mead",
-  "license": "MIT",
+  "author": "Sagar Thapa",
+  "license": "",
   "dependencies": {
     "axios": "^0.15.3",
     "express": "^4.13.4",
