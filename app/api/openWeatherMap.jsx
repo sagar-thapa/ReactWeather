@@ -15,7 +15,7 @@ getTemp: function(location) {
         return response.data.main.temp;
       }
     }, function (error) {
-    throw new Error('city not found');;
+    throw new Error('City not found');;
   });
  }
 }
